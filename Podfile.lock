@@ -1,3 +1,21 @@
-PODFILE CHECKSUM: ec6a18bf78b91d099621d2f7ca3fce6823442f3e
+PODS:
+  - SinaWeiboOpenSDK-iOS (3.3.2)
+
+DEPENDENCIES:
+  - SinaWeiboOpenSDK-iOS (from `https://github.com/liujunliuhong/SinaWeiboOpenSDK.git`)
+
+EXTERNAL SOURCES:
+  SinaWeiboOpenSDK-iOS:
+    :git: https://github.com/liujunliuhong/SinaWeiboOpenSDK.git
+
+CHECKOUT OPTIONS:
+  SinaWeiboOpenSDK-iOS:
+    :commit: a0a70661f8ea2a87eb39a6f399cfeda412d0fa9e
+    :git: https://github.com/liujunliuhong/SinaWeiboOpenSDK.git
+
+SPEC CHECKSUMS:
+  SinaWeiboOpenSDK-iOS: 91853c979ace7b11f4cecd5160c96c124713deef
+
+PODFILE CHECKSUM: 8cfe6a61dbdc56980cb6ccdca5c3c4a848c0a9f6
 
 COCOAPODS: 1.11.2
