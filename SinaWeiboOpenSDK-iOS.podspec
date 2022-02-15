@@ -8,7 +8,7 @@ Pod::Spec.new do |spec|
     spec.author                   = { 'liujunliuhong' => '1035841713@qq.com' }
     spec.platform                 = :ios, '9.0'
     spec.ios.deployment_target    = '9.0'
-    spec.module_name              = 'SinaWeiboOpenSDK' # 模块名和微信保持一致
+    spec.module_name              = 'SinaWeiboSDK'
     spec.requires_arc             = true
     spec.static_framework         = true
     spec.swift_version            = '5.0'

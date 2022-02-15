@@ -7,7 +7,7 @@ SDK_DIRECTORY="libWeiboSDK"
 MY_PODSPEC_FILE_NAME="SinaWeiboOpenSDK-iOS.podspec"
 MY_PODSPEC_PATH="${MY_PODSPEC_FILE_NAME}"
 MY_PODSPEC_NAME="SinaWeiboOpenSDK-iOS"
-MY_PODSPEC_MODULE_NAME="SinaWeiboOpenSDK"
+MY_PODSPEC_MODULE_NAME="SinaWeiboSDK"
 LAST_MY_PODSPEC_VERSION=""
 
 WEIBO_GIT_PATH="https://github.com/sinaweibosdk/weibo_ios_sdk.git"
