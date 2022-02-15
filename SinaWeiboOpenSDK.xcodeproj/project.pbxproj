@@ -115,7 +115,6 @@
 		BFB5984627BA592E0055EAB8 = {
 			isa = PBXGroup;
 			children = (
-				BFB5988227BA59900055EAB8 /* Sources */,
 				BFB5985127BA592E0055EAB8 /* SinaWeiboOpenSDK */,
 				BFB5986827BA59310055EAB8 /* SinaWeiboOpenSDKTests */,
 				BFB5987227BA59310055EAB8 /* SinaWeiboOpenSDKUITests */,
@@ -163,13 +162,6 @@
 				BFB5987527BA59310055EAB8 /* SinaWeiboOpenSDKUITestsLaunchTests.swift */,
 			);
 			path = SinaWeiboOpenSDKUITests;
-			sourceTree = "<group>";
-		};
-		BFB5988227BA59900055EAB8 /* Sources */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Sources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

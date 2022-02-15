@@ -4,7 +4,8 @@ target 'SinaWeiboOpenSDK' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
 
-  # Pods for SinaWeiboOpenSDK
+  #pod 'SinaWeiboOpenSDK-iOS', :path => 'SinaWeiboOpenSDK-iOS.podspec'
+  # pod 'SinaWeiboOpenSDK-iOS', :git => "https://github.com/liujunliuhong/SinaWeiboOpenSDK.git" 
 
   target 'SinaWeiboOpenSDKTests' do
     inherit! :search_paths
