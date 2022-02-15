@@ -27,6 +27,12 @@
 pod 'SinaWeiboOpenSDK-iOS'
 ```
 
+或者指定git源
+
+```
+pod 'SinaWeiboOpenSDK-iOS', :git => "https://github.com/liujunliuhong/SinaWeiboOpenSDK.git" 
+```
+
 ## 使用
 Swift
 
